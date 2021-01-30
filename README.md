@@ -1,4 +1,4 @@
-#NYT Deshittifier
+# NYT Deshittifier
 
 Removes the annoying login junk from the bottom of the nyt website and reenables scrolling.
 
